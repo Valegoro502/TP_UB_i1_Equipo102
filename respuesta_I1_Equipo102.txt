@@ -1,0 +1,5 @@
+Alfa:
+
+A) Si, si lo pushean si. Si commitean los cambios, mejor. Si los quiere tener de forma local, Alfa tiene que hacer un git pull para actualizar su directorio local.
+
+B) Si agrega un archivo en su computadora local, va a tener que hacer un git push origin X (En nuestro caso es master)para que lo puedan ver todos.
