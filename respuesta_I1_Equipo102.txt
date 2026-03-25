@@ -10,6 +10,8 @@ C) Si agrega un archivo en su computadora local, va a tener que hacer un git pus
 
 D) Nos comunicamos hablando de forma presencial.
 
+Gamma:
+
 E) La mejor forma de comunicarse dentro de GitHub es usando los Issues o los comentarios en los Pull Requests, ya que quedan registrados y todos los colaboradores pueden ver los en cualquier momento.
 
 
